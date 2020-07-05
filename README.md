@@ -1,0 +1,4 @@
+# Quantidade de Leitos de Internação SUS por região
+
+Análise feita para fins universitários, criado por Luara C. Lopes Goulart aluna da Faculdade de Tecnologia do Estado de São Paulo - FATEC SJC. 
+Será apresentada uma análise com a quantidade de Leitos de Internação do SUS disponíveis nas regiões do Brasil, a partir dos dados encontrados [neste dataset](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def). Com intuito de fazermos um comparativo da quantidade de leitos que se disponibilizaram no inicio da pandemia (Março) e no mais recente dado disponivel (Maio) nos hospitais SUS das regiões brasileiras.
